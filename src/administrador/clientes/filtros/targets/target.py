@@ -1,4 +1,4 @@
 class Target:
-    
-    def ejecutar (self, cliente):
+
+    def ejecucion (self, cliente):
         pass
